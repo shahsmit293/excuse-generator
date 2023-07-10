@@ -1,0 +1,28 @@
+
+h1 {
+	font-size: 50px;
+	margin-left: 250px;
+    margin-top: 250px;
+    color:brown;
+}
+#excuses{
+	position: relative;
+	top: 200px;
+	left: 250px;
+	font-size: 50px;
+	color: blueviolet;
+}
+button {
+	margin-left: 500px;
+    font-size: 28px;
+	color: black;
+	background-color: grey;
+	border: 6px solid black;
+	height: 60px;
+	width: 200px;    
+}
+
+
+
+
+
